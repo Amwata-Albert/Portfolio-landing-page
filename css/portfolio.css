@@ -1,0 +1,37 @@
+body{
+    color: lightcoral;
+    background-color: lightgoldenrodyellow;
+}
+.header{
+    background-color:grey;
+}
+.nav{
+    text-align: center;
+}
+ul>li{
+    display: inline-block;
+    text-decoration:none;
+}
+nav>ul>li>a{
+    text-decoration: none;
+    padding: 5px;
+    color: brown;
+    margin-left: 10px;
+}
+nav>ul>li>a:hover{
+    border-radius: 50%;
+    color: burlywood;
+}
+.footer{
+    color:brown;
+    margin-top:1%;
+}
+h1{text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+.sec2{
+    float: right;
+}
+
+
