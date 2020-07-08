@@ -33,5 +33,12 @@ h1{text-align: center;
 .sec2{
     float: right;
 }
-
+.footer2{
+    float:right;
+    padding: 20px;
+    margin-top: -5%;
+}
+footer{
+    color: grey;
+}
 
